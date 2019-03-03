@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "60582202322",
+    "firebase_url": "https://periup-deeef.firebaseio.com",
+    "project_id": "periup-deeef",
+    "storage_bucket": "periup-deeef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60582202322:android:2e70e67056c61a14",
+        "android_client_info": {
+          "package_name": "com.sangeetagupta.periup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60582202322-ck6m8sb1vbld87o02olkjm0siqkln3f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sangeetagupta.periup",
+            "certificate_hash": "96440f17001db73afb34bf22ea41ba252416ea02"
+          }
+        },
+        {
+          "client_id": "60582202322-c4v0bbsk82211nav2b2ionbqmvt6lath.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUWZNp4w6Akh4IriXVjRxzLgYU1Jk2qX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60582202322-c4v0bbsk82211nav2b2ionbqmvt6lath.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
